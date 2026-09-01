@@ -14,8 +14,11 @@ The dashboard is designed as a multi-page interactive report, allowing users to 
 🛠️ Tech Stack
 
 Microsoft Power BI – Dashboard development and data visualization
+
 Power Query – Data cleaning and transformation
+
 DAX – Calculated measures, KPIs, and statistical analysis
+
 Excel / CSV – Dataset storage and data preparation
 
 📂 Data Source
@@ -50,18 +53,27 @@ The dashboard combines match-level and delivery-level information to provide det
 The Summary page provides an overall view of IPL tournaments and match statistics.
 
 Key KPIs:
+
 🏏 Tournament 4's – 29.85K
+
 🏏 Tournament 6's – 13.05K
+
 🎯 Total Matches – 1,095
+
 👥 Total Teams – 19
 
 Visualizations include:
 
 🏆 Matches Won by Team
+
 ⭐ Player of the Match Analysis
+
 🪙 Matches Won by Toss Decision
+
 🏏 Matches Won by Result
+
 🏟️ Matches by Venue
+
 🎯 Season-wise filtering
 
 This page provides a quick overview of the overall IPL tournament statistics.
@@ -73,16 +85,23 @@ The Bowler Stats page focuses on bowling performance and provides detailed insig
 Key KPIs:
 
 🏏 Total Wickets – 13K
+
 🎯 Bowling Strike Rate – 20.15
+
 📊 Bowler Average – 26.35
+
 💨 Economy – 7.
 
 Visualizations include:
 
 📈 Wickets by Team
+
 🎯 Average Economy by Bowler
+
 🏏 Dismissal Type Analysis
+
 ⭐ Highest Average by Bowler
+
 📋 Detailed bowler statistics table
 
 The page helps identify economical bowlers, high-wicket-taking bowlers, and players with strong bowling averages.
@@ -94,16 +113,23 @@ The Batsman Stats page analyzes batting performance across IPL seasons.
 Key KPIs:
 
 🏏 Tournament 4's – 29.85K
+
 💥 Tournament 6's – 13.05K
+
 📈 Total Runs – 348K
+
 ⚡ Strike Rate – 126.50
 
 Visualizations include:
 
 📊 Total Runs by Team
+
 ⚡ Strike Rate by Batsman
+
 🏏 Dismissal Type Analysis
+
 ⭐ Highest Average by Batsman
+
 📋 Detailed batsman statistics table
 
 This page helps identify top run scorers, high strike-rate batsmen, and players with strong batting averages.
@@ -139,9 +165,13 @@ Users can navigate between the pages using the navigation buttons/icons.
 The dashboard provides team-level analysis such as:
 
 Matches won
+
 Runs
+
 Wickets
+
 Team performance
+
 Tournament statistics
 
 👤 Player Analysis
@@ -149,12 +179,19 @@ Tournament statistics
 Player-level analysis includes:
 
 Player of the Match
+
 Total runs
+
 Strike rate
+
 Bowling economy
+
 Wickets
+
 Bowling average
+
 Batting average
+
 Dismissal types
 
 🪙 Toss Analysis
@@ -162,6 +199,7 @@ Dismissal types
 The dashboard analyzes whether teams chose to:
 
 Bat first
+
 Field first
 
 and compares the resulting match outcomes.
