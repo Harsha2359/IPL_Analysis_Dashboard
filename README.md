@@ -2,7 +2,9 @@
 .
 
 🏏 IPL Analysis Dashboard
+
 🏏 IPL Analysis Dashboard – Interactive Power BI Dashboard
+
 📝 Description
 
 The IPL Analysis Dashboard is an interactive business intelligence project developed using Microsoft Power BI. The dashboard analyzes Indian Premier League (IPL) match data to provide insights into team performance, player performance, batting statistics, bowling statistics, match results, toss decisions, venues, and player dismissals.
@@ -10,10 +12,12 @@ The IPL Analysis Dashboard is an interactive business intelligence project devel
 The dashboard is designed as a multi-page interactive report, allowing users to navigate between Summary, Bowler Stats, and Batsman Stats pages. Interactive season filters and visualizations help users explore IPL performance across different seasons and identify top-performing teams, batsmen, and bowlers.
 
 🛠️ Tech Stack
+
 Microsoft Power BI – Dashboard development and data visualization
 Power Query – Data cleaning and transformation
 DAX – Calculated measures, KPIs, and statistical analysis
 Excel / CSV – Dataset storage and data preparation
+
 📂 Data Source
 
 The dashboard is built using IPL match and ball-by-ball datasets covering IPL seasons from 2008 to 2024.
@@ -40,6 +44,7 @@ The dataset contains information related to:
 The dashboard combines match-level and delivery-level information to provide detailed IPL performance analysis.
 
 🚀 Dashboard Features
+
 1. 📊 IPL Summary Dashboard
 
 The Summary page provides an overall view of IPL tournaments and match statistics.
@@ -49,7 +54,9 @@ Key KPIs:
 🏏 Tournament 6's – 13.05K
 🎯 Total Matches – 1,095
 👥 Total Teams – 19
+
 Visualizations include:
+
 🏆 Matches Won by Team
 ⭐ Player of the Match Analysis
 🪙 Matches Won by Toss Decision
@@ -64,11 +71,14 @@ This page provides a quick overview of the overall IPL tournament statistics.
 The Bowler Stats page focuses on bowling performance and provides detailed insights into IPL bowlers.
 
 Key KPIs:
+
 🏏 Total Wickets – 13K
 🎯 Bowling Strike Rate – 20.15
 📊 Bowler Average – 26.35
-💨 Economy – 7.85
+💨 Economy – 7.
+
 Visualizations include:
+
 📈 Wickets by Team
 🎯 Average Economy by Bowler
 🏏 Dismissal Type Analysis
@@ -82,11 +92,14 @@ The page helps identify economical bowlers, high-wicket-taking bowlers, and play
 The Batsman Stats page analyzes batting performance across IPL seasons.
 
 Key KPIs:
+
 🏏 Tournament 4's – 29.85K
 💥 Tournament 6's – 13.05K
 📈 Total Runs – 348K
 ⚡ Strike Rate – 126.50
+
 Visualizations include:
+
 📊 Total Runs by Team
 ⚡ Strike Rate by Batsman
 🏏 Dismissal Type Analysis
@@ -130,6 +143,7 @@ Runs
 Wickets
 Team performance
 Tournament statistics
+
 👤 Player Analysis
 
 Player-level analysis includes:
@@ -142,6 +156,7 @@ Wickets
 Bowling average
 Batting average
 Dismissal types
+
 🪙 Toss Analysis
 
 The dashboard analyzes whether teams chose to:
@@ -156,6 +171,7 @@ and compares the resulting match outcomes.
 The dashboard provides insights into the number of matches played at different IPL venues.
 
 ⭐ Key Highlights
+
 📊 Built a fully interactive multi-page IPL Power BI dashboard
 🏏 Analyzed IPL match and ball-by-ball data
 📅 Included IPL seasons from 2008–2024
@@ -175,6 +191,7 @@ The dashboard provides insights into the number of matches played at different I
 🧹 Performed data cleaning and transformation using Power Query
 📑 Designed a professional multi-page dashboard with page navigation
 📸 Dashboard Pages
+
 Page 1 – IPL Summary
 
 The Summary dashboard provides an overall analysis of IPL matches, teams, toss decisions, results, players, and venues.
