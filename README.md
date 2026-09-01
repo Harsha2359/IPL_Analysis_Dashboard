@@ -211,23 +211,41 @@ The dashboard provides insights into the number of matches played at different I
 ⭐ Key Highlights
 
 📊 Built a fully interactive multi-page IPL Power BI dashboard
+
 🏏 Analyzed IPL match and ball-by-ball data
+
 📅 Included IPL seasons from 2008–2024
+
 👥 Analyzed performance across IPL teams
+
 🎯 Created a dedicated Bowler Stats dashboard
+
 🏏 Created a dedicated Batsman Stats dashboard
+
 🏆 Analyzed matches won by different teams
+
 🪙 Analyzed the impact of toss decisions
+
 🏟️ Performed venue-wise match analysis
+
 ⭐ Analyzed Player of the Match statistics
+
 📈 Analyzed batting and bowling performance
+
 ⚡ Compared batsmen based on strike rate
+
 💨 Compared bowlers based on economy
+
 🎯 Analyzed wickets and dismissal types
+
 🎛️ Added interactive season filters
+
 🧮 Used DAX measures for KPI calculations
+
 🧹 Performed data cleaning and transformation using Power Query
+
 📑 Designed a professional multi-page dashboard with page navigation
+
 📸 Dashboard Pages
 
 Page 1 – IPL Summary
@@ -247,13 +265,21 @@ The Batsman Stats dashboard focuses on total runs, strike rate, batting averages
 The primary objective of this project is to transform raw IPL match and delivery data into an interactive analytical dashboard that can help users understand:
 
 Which teams performed better?
+
 Which batsmen scored the most runs?
+
 Which batsmen had higher strike rates?
+
 Which bowlers took the most wickets?
+
 Which bowlers had better economy rates?
+
 What types of dismissals were most common?
+
 How did toss decisions affect match outcomes?
+
 Which venues hosted the most matches?
+
 How did IPL statistics change across seasons?
 
 
